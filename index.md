@@ -1,3 +1,4 @@
+[index-updated.md](https://github.com/user-attachments/files/32560436/index-updated.md)
 ---
 layout: default
 ---
@@ -6,9 +7,18 @@ layout: default
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
 
-[Overview](#overview) · [Call for Papers](#call-for-papers) · [Important Dates](#important-dates) · [Organizers](#organizers) · [Journal Special Issue](#journal-special-issue)
+<figure class="hero-figure">
+  <img src="{{ '/assets/images/shapley-animation.svg' | relative_url }}" alt="Animated illustration of individual player contributions flowing into a shared coalition value" width="480">
+  <figcaption>Individual contributions flowing into a coalition's value — the intuition behind the Shapley value.</figcaption>
+</figure>
 
----
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#call-for-papers">Call for Papers</a>
+  <a href="#important-dates">Important Dates</a>
+  <a href="#organizers">Organizers</a>
+  <a href="#journal-special-issue">Journal Special Issue</a>
+</nav>
 
 ## Overview
 
