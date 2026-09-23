@@ -12,6 +12,13 @@
 
 body {
   color: var(--text);
+  background:
+    radial-gradient(1100px 480px at 20% -160px, rgba(15, 158, 142, 0.22), transparent 60%),
+    radial-gradient(900px 420px at 85% -120px, rgba(124, 58, 237, 0.14), transparent 60%),
+    linear-gradient(180deg, #F3FBFA 0%, #FFFFFF 45%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .wrapper {
