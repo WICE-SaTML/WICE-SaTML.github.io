@@ -1,6 +1,6 @@
-[index-updated.md](https://github.com/user-attachments/files/32560436/index-updated.md)
+#[index-updated.md](https://github.com/user-attachments/files/32560436/index-updated.md)
 ---
-layout: default
+#layout: default
 ---
 
 # WICE @ SaTML 2027
