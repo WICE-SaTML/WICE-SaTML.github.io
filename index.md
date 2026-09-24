@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # WICE @ SaTML 2027
 
@@ -49,10 +52,28 @@ We invite submissions on *(add topics of interest here)*.
 
 ## Organizers
 
-*(Add organizer names, affiliations, and optionally links/photos here.)*
-
-- Name, Affiliation
-- Name, Affiliation
+<div class="organizers-grid">
+  <div class="organizer">
+    <img src="{{ '/assets/images/organizers/balazs-pejo.jpg' | relative_url }}" alt="Balázs Pejó" class="organizer-photo">
+    <p class="organizer-name">Balázs Pejó</p>
+    <p class="organizer-affiliation"><a href="https://dblp.org/pid/175/5675">Budapest University of Technology and Economics</a></p>
+  </div>
+  <div class="organizer">
+    <img src="{{ '/assets/images/organizers/steve-drew.jpg' | relative_url }}" alt="Steve Drew" class="organizer-photo">
+    <p class="organizer-name">Steve Drew</p>
+    <p class="organizer-affiliation"><a href="https://profiles.ucalgary.ca/steve-drew">University of Calgary</a></p>
+  </div>
+  <div class="organizer">
+    <img src="{{ '/assets/images/organizers/qiang-tang.jpg' | relative_url }}" alt="Qiang Tang" class="organizer-photo">
+    <p class="organizer-name">Qiang Tang</p>
+    <p class="organizer-affiliation"><a href="https://scholar.google.com/citations?view_op=view_org&hl=en&org=3123003046095992314">Luxembourg Institute of Science and Technology</a></p>
+  </div>
+  <div class="organizer">
+    <img src="{{ '/assets/images/organizers/delio-jaramillo-velez.jpg' | relative_url }}" alt="Delio Jaramillo-Velez" class="organizer-photo">
+    <p class="organizer-name">Delio Jaramillo-Velez</p>
+    <p class="organizer-affiliation">University of La Laguna — <em>(add your preferred profile link here)</em></p>
+  </div>
+</div>
 
 ---
 
