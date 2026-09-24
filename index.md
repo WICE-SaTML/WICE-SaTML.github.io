@@ -55,23 +55,23 @@ We invite submissions on *(add topics of interest here)*.
 <div class="organizers-grid">
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/balazs-pejo.jpg' | relative_url }}" alt="Balázs Pejó" class="organizer-photo">
-    <p class="organizer-name">Balázs Pejó</p>
-    <p class="organizer-affiliation"><a href="https://dblp.org/pid/175/5675">Budapest University of Technology and Economics</a></p>
+    <p class="organizer-name"><a href="https://dblp.org/pid/175/5675">Balázs Pejó</a></p>
+    <p class="organizer-affiliation">Budapest University of Technology and Economics</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/steve-drew.jpg' | relative_url }}" alt="Steve Drew" class="organizer-photo">
-    <p class="organizer-name">Steve Drew</p>
-    <p class="organizer-affiliation"><a href="https://profiles.ucalgary.ca/steve-drew">University of Calgary</a></p>
+    <p class="organizer-name"><a href="https://profiles.ucalgary.ca/steve-drew">Steve Drew</a></p>
+    <p class="organizer-affiliation">University of Calgary</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/qiang-tang.jpg' | relative_url }}" alt="Qiang Tang" class="organizer-photo">
-    <p class="organizer-name">Qiang Tang</p>
-    <p class="organizer-affiliation"><a href="https://scholar.google.com/citations?view_op=view_org&hl=en&org=3123003046095992314">Luxembourg Institute of Science and Technology</a></p>
+    <p class="organizer-name"><a href="https://scholar.google.com/citations?view_op=view_org&hl=en&org=3123003046095992314">Qiang Tang</a></p>
+    <p class="organizer-affiliation">Luxembourg Institute of Science and Technology</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/delio-jaramillo-velez.jpg' | relative_url }}" alt="Delio Jaramillo-Velez" class="organizer-photo">
-    <p class="organizer-name">Delio Jaramillo-Velez</p>
-    <p class="organizer-affiliation">University of La Laguna — <em>(add your preferred profile link here)</em></p>
+    <p class="organizer-name">Delio Jaramillo-Velez <em>(add your personal page link here)</em></p>
+    <p class="organizer-affiliation">University of La Laguna</p>
   </div>
 </div>
 
