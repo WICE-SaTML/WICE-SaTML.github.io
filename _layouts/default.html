@@ -81,6 +81,39 @@
       table td { padding: 8px 14px; border-bottom: 1px solid var(--border); }
 
       hr { border: none; border-top: 1px solid var(--border); margin: 2.5em 0; }
+
+      .organizers-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        gap: 24px;
+        margin: 1.5em 0 2em;
+      }
+      .organizer {
+        text-align: center;
+      }
+      .organizer-photo {
+        width: 110px;
+        height: 110px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 0 auto 10px;
+        display: block;
+        background-color: var(--border);
+      }
+      .organizer-name {
+        font-weight: 600;
+        margin: 0 0 2px;
+        color: var(--brand-navy);
+      }
+      .organizer-affiliation {
+        font-size: 0.9em;
+        color: #6B7684;
+        margin: 0;
+      }
+      .organizer-affiliation a {
+        color: inherit !important;
+        text-decoration: underline;
+      }
     </style>
   </head>
   <body>
