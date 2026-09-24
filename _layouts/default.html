@@ -1,7 +1,99 @@
-{% seo %}
-{{ content }}
-{% if site.github.is_project_page %}
-This project is maintained by {{ site.github.owner_name }}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --brand-navy: #1B2A4A;
+        --accent: #0F9E8E;
+        --border: #E2E8F0;
+        --text: #1F2933;
+      }
 
-{% endif %}
-Hosted on GitHub Pages — Theme by orderedlist
+      body {
+        background:
+          radial-gradient(1100px 480px at 20% -160px, rgba(15, 158, 142, 0.22), transparent 60%),
+          radial-gradient(900px 420px at 85% -120px, rgba(124, 58, 237, 0.14), transparent 60%),
+          linear-gradient(180deg, #F3FBFA 0%, #FFFFFF 45%) !important;
+        background-attachment: fixed !important;
+        background-repeat: no-repeat !important;
+        min-height: 100vh;
+        color: var(--text) !important;
+      }
+
+      .wrapper {
+        max-width: 760px;
+      }
+
+      .wrapper h1, .wrapper h2, .wrapper h3 {
+        font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
+        color: var(--brand-navy) !important;
+        font-weight: 600;
+      }
+
+      a { color: var(--accent) !important; }
+      a:hover { color: var(--brand-navy) !important; }
+
+      .site-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 24px;
+        margin: 1.5em 0 2em;
+        padding-bottom: 0.6em;
+        border-bottom: 1px solid var(--border);
+      }
+      .site-nav a {
+        color: var(--brand-navy) !important;
+        text-decoration: none;
+        font-size: 0.95em;
+        padding-bottom: 4px;
+        border-bottom: 2px solid transparent;
+        transition: border-color 0.15s ease, color 0.15s ease;
+      }
+      .site-nav a:hover {
+        color: var(--accent) !important;
+        border-bottom-color: var(--accent);
+      }
+
+      .hero-figure { margin: 1.5em 0 2em; text-align: center; }
+      .hero-figure figcaption {
+        margin-top: 0.75em;
+        font-size: 0.9em;
+        color: #6B7684;
+        font-style: italic;
+      }
+
+      table { width: 100%; border-collapse: collapse; margin: 1.2em 0; }
+      table th {
+        background-color: var(--brand-navy) !important;
+        color: #fff !important;
+        padding: 8px 14px;
+        text-align: left;
+        font-weight: 600;
+      }
+      table td { padding: 8px 14px; border-bottom: 1px solid var(--border); }
+
+      hr { border: none; border-top: 1px solid var(--border); margin: 2.5em 0; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
