@@ -4,7 +4,7 @@ layout: default
 
 # Workshop on Incentives and Contribution Evaluation
 
-                                              *A workshop co-located with [SaTML](https://satml.org/) 2027.*
+*A workshop co-located with [SaTML](https://satml.org/) 2027.*
 
 # WICE @ SaTML 2027
 
