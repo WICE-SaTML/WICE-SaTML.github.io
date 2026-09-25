@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#call-for-papers">Call for Papers</a>
+  <a href="#important-dates">Important Dates</a>
+  <a href="#organizers">Organizers</a>
+  <a href="#journal-special-issue">Journal Special Issue</a>
+</nav>
+{: .centered }
 
 # Workshop on Incentives and Contribution Evaluation
 {: .centered }
@@ -19,14 +27,6 @@ layout: default
   <img src="{{ '/assets/images/satml-banner.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
 </div>
 
-<nav class="site-nav">
-  <a href="#overview">Overview</a>
-  <a href="#call-for-papers">Call for Papers</a>
-  <a href="#important-dates">Important Dates</a>
-  <a href="#organizers">Organizers</a>
-  <a href="#journal-special-issue">Journal Special Issue</a>
-</nav>
-{: .centered }
 
 ## Overview
 
