@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#call-for-papers">Call for Papers</a>
+  <a href="#important-dates">Important Dates</a>
+  <a href="#organizers">Organizers</a>
+  <a href="#journal-special-issue">Journal Special Issue</a>
+</nav>
+
 # WICE @ SaTML 2027
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
@@ -10,14 +18,6 @@ layout: default
   <img src="{{ '/assets/images/shapley-animation.svg' | relative_url }}" alt="Animated illustration of individual player contributions flowing into a shared coalition value" width="480">
   <figcaption>Individual contributions flowing into a coalition's value — the intuition behind the Shapley value.</figcaption>
 </figure>
-
-<nav class="site-nav">
-  <a href="#overview">Overview</a>
-  <a href="#call-for-papers">Call for Papers</a>
-  <a href="#important-dates">Important Dates</a>
-  <a href="#organizers">Organizers</a>
-  <a href="#journal-special-issue">Journal Special Issue</a>
-</nav>
 
 ## Overview
 
@@ -55,23 +55,23 @@ We invite submissions on *(add topics of interest here)*.
 <div class="organizers-grid">
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/balazs-pejo.jpg' | relative_url }}" alt="Balázs Pejó" class="organizer-photo">
-    <p class="organizer-name"><a href="https://crysys.hu/~pejo/">Balázs Pejó</a></p>
-    <p class="organizer-affiliation">Budapest University of Technology and Economics, Hungary</p>
+    <p class="organizer-name"><a href="https://dblp.org/pid/175/5675">Balázs Pejó</a></p>
+    <p class="organizer-affiliation">Budapest University of Technology and Economics</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/steve-drew.jpg' | relative_url }}" alt="Steve Drew" class="organizer-photo">
     <p class="organizer-name"><a href="https://profiles.ucalgary.ca/steve-drew">Steve Drew</a></p>
-    <p class="organizer-affiliation">University of Calgary, Canada</p>
+    <p class="organizer-affiliation">University of Calgary</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/qiang-tang.jpg' | relative_url }}" alt="Qiang Tang" class="organizer-photo">
-    <p class="organizer-name"><a href="https://researchportal.list.lu/scientific-community/detail/tang-qiang">Qiang Tang</a></p>
-    <p class="organizer-affiliation">Luxembourg Institute of Science and Technology, Luxembourg</p>
+    <p class="organizer-name"><a href="https://scholar.google.com/citations?view_op=view_org&hl=en&org=3123003046095992314">Qiang Tang</a></p>
+    <p class="organizer-affiliation">Luxembourg Institute of Science and Technology</p>
   </div>
   <div class="organizer">
     <img src="{{ '/assets/images/organizers/delio-jaramillo-velez.jpg' | relative_url }}" alt="Delio Jaramillo-Velez" class="organizer-photo">
-    <p class="organizer-name"><a href="https://sites.google.com/view/delio-jaramillo-velez/home">Delio Jaramillo-Velez</a></p>   
-    <p class="organizer-affiliation">University of La Laguna, Spain</p>
+    <p class="organizer-name">Delio Jaramillo-Velez <em>(add your personal page link here)</em></p>
+    <p class="organizer-affiliation">University of La Laguna</p>
   </div>
 </div>
 
