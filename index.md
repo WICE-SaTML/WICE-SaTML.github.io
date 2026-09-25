@@ -3,8 +3,10 @@ layout: default
 ---
 
 # WICE @ SaTML 2027
+{: .centered }
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
+{: .centered }
 
 <nav class="site-nav">
   <a href="#overview">Overview</a>
