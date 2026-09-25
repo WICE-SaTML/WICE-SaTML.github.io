@@ -26,7 +26,7 @@ layout: default
   <a href="#organizers">Organizers</a>
   <a href="#journal-special-issue">Journal Special Issue</a>
 </nav>
-
+{: .centered }
 
 ## Overview
 
