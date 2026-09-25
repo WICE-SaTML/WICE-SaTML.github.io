@@ -2,15 +2,25 @@
 layout: default
 ---
 
-# Workshop on Incentives and Contribution Evaluation
+# WICE @ SaTML 2027
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
 
-# WICE @ SaTML 2027
+<div class="satml-banner">
+  <img src="{{ '/assets/images/satml-banner.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
+</div>
 
+<figure class="scale-figure">
+  <img src="{{ '/assets/images/balance-scale-animation.svg' | relative_url }}" alt="Animated balance scale titled Fair Reward for Fair Contribution, tipping into balance between a pan of data contributions and a pan holding a reward token">
+</figure>
 
-
-<nav class="site-nav"> <a href="#overview">Overview</a> <a href="#call-for-papers">Call for Papers</a> <a href="#important-dates">Important Dates</a> <a href="#organizers">Organizers</a> <a href="#journal-special-issue">Journal Special Issue</a> </nav> 
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#call-for-papers">Call for Papers</a>
+  <a href="#important-dates">Important Dates</a>
+  <a href="#organizers">Organizers</a>
+  <a href="#journal-special-issue">Journal Special Issue</a>
+</nav>
 
 <figure class="hero-figure">
   <img src="{{ '/assets/images/shapley-animation.svg' | relative_url }}" alt="Animated illustration of individual player contributions flowing into a shared coalition value" width="480">
