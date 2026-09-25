@@ -2,17 +2,12 @@
 layout: default
 ---
 
-<nav class="site-nav">
-  <a href="#overview">Overview</a>
-  <a href="#call-for-papers">Call for Papers</a>
-  <a href="#important-dates">Important Dates</a>
-  <a href="#organizers">Organizers</a>
-  <a href="#journal-special-issue">Journal Special Issue</a>
-</nav>
 
 # WICE @ SaTML 2027
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
+
+<nav class="site-nav"> <a href="#overview">Overview</a> <a href="#call-for-papers">Call for Papers</a> <a href="#important-dates">Important Dates</a> <a href="#organizers">Organizers</a> <a href="#journal-special-issue">Journal Special Issue</a> </nav> 
 
 <figure class="hero-figure">
   <img src="{{ '/assets/images/shapley-animation.svg' | relative_url }}" alt="Animated illustration of individual player contributions flowing into a shared coalition value" width="480">
