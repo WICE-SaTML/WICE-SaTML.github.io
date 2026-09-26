@@ -62,11 +62,11 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 ### Publication
 
-Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions — regardless of the acceptance decision — will be invited to submit substantially extended versions to an associated journal special issue**, edited by the workshop co-chairs and subject to the journal's independent peer review. **Publication-fee waivers will be available for selected contributions.**
+Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions — regardless of the acceptance decision — will be invited to submit substantially extended versions to an associated journal special issue**, edited by the workshop co-chairs and subject to the journal's independent peer review. 
 
 ### Policies
 
-Submissions must comply with the IEEE SaTML 2027 AI Guidelines, Open Science policy, and Proactive Prevention of Harm policy (see the main conference website); the workshop follows the IEEE Code of Conduct.
+Submissions must comply with the IEEE SaTML 2027 AI Guidelines, Open Science policy, and Proactive Prevention of Harm policy (see the main [conference website](https://satml.org/call-for-papers/#reviewing-process)); the workshop follows the IEEE Code of Conduct.
 
 ---
 
@@ -120,4 +120,4 @@ Keynote speaker to be announced.
 
 Selected papers from WICE will be invited to submit extended versions for a special collection in *Frontiers*.
 
-*(Link to the collection will be added here once it is live.)*
+*[Incentive and Contribution Evaluation in Secure Collaborative Learning](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning)*
