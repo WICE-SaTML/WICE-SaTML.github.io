@@ -30,7 +30,9 @@ layout: default
 
 ## Overview
 
-*(Add 2–3 sentences here describing the workshop's scope, goals, and target audience — what topics it covers and why they matter.)*
+*## Overview
+
+WICE 2027 aims to advance the study of incentives and contribution evaluation in collaborative machine learning. As federated learning moves beyond training a single shared model toward multi-agent systems, and as data valuation, incentive compatibility, and privacy-preserving computation become central to any large-scale collaboration, quantifying each participant's contribution — fairly, robustly, and without exposing private data — has never been more critical. This workshop explores contribution evaluation metrics and their axiomatic foundations, the robustness of contribution scores against manipulation and poisoning, incentive mechanisms and mechanism design for collaborative learning, and credit assignment in multi-agent and LLM-agent collaboration, addressing key challenges including compatibility with privacy-enhancing technologies, system and statistical heterogeneity, and verifiable reward distribution. By bringing together researchers and practitioners from the federated learning, security and privacy, data valuation, and game theory communities, WICE fosters discussion on the incentive foundations that determine whether collaborative learning is worth participating in for those involved — co-located with IEEE SaTML 2027 in Reykjavík, Iceland, on May 3, 2027.*
 
 ---
 
