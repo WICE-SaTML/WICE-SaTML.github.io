@@ -5,6 +5,7 @@ layout: default
   <a href="#overview">Overview</a>
   <a href="#call-for-papers">Call for Papers</a>
   <a href="#important-dates">Important Dates</a>
+  <a href="#important-dates">Keynotes</a>
   <a href="#organizers">Organizers</a>
   <a href="#journal-special-issue">Journal Special Issue</a>
 </nav>
@@ -62,7 +63,7 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 ### Publication
 
-Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions — regardless of the acceptance decision — will be invited to submit substantially extended versions to an associated journal special issue**, edited by the workshop co-chairs and subject to the journal's independent peer review. 
+Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions — regardless of the acceptance decision — will be invited to submit substantially extended versions to an associated journal special issue ([more info here](https://wice-satml.github.io/#journal-special-issue))**, edited by the workshop co-chairs and subject to the journal's independent peer review. 
 
 ### Policies
 
@@ -82,6 +83,13 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 | **Workshop** | **May 3, 2027** |
 
 ---
+
+## Keynotes
+
+Keynote speaker to be announced.
+
+---
+
 
 ## Organizers
 
@@ -110,14 +118,15 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 ---
 
-## Keynotes
-
-Keynote speaker to be announced.
-
----
-
 ## Journal Special Issue
 
-Selected papers from WICE will be invited to submit extended versions for a special collection in *Frontiers*.
+WICE partners with **Frontiers in Computer Science** (Computer Security section) on a companion Research Topic, [*Incentives and Contribution Evaluation in Secure Collaborative Learning*](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning), edited by the workshop co-chairs: Balázs Pejó, Steve Drew, Qiang Tang, and Delio Jaramillo-Velez.
 
-*[Incentive and Contribution Evaluation in Secure Collaborative Learning](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning)*
+The Research Topic treats contribution evaluation as both a security mechanism and an attack surface in federated learning: it underpins free-rider detection and accountability, yet contribution scores themselves can be gamed, are sensitive to the choice of aggregation rule, and can leak information about participants. It welcomes original research, systematization-of-knowledge, survey, and perspective articles on topics such as attacks on and defenses for contribution scoring, privacy-preserving and Byzantine-robust evaluation, secure and verifiable reward distribution, mechanism design, data valuation, and credit assignment in multi-agent and LLM-agent collaboration.
+
+**Authors of WICE workshop papers — accepted or not — are warmly invited to submit substantially extended versions**, and the Research Topic is also open to original submissions from outside the workshop. 
+
+**Manuscript submission deadline:** August 31, 2027
+
+👉 [Read the full call and submit at the Research Topic page](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning)
+
