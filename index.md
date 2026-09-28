@@ -9,10 +9,12 @@ layout: default
   <a href="#organizers">Organizers</a>
   <a href="#program-committee">Program Committee</a>
   <a href="#program">Program</a>
+  {: .centered }
   <a href="#journal-special-issue">Journal Special Issue</a>
   <a href="#contact-and-submission">Contact and Submission</a>
+  {: .centered }
 </nav>
-{: .centered }
+<!--{: .centered }-->
 
 # 1st Workshop on Incentives and Contribution Evaluation (WICE 2027)
 {: .centered }
