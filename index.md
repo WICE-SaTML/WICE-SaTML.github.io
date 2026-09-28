@@ -1,6 +1,9 @@
 ---
+
 layout: default
+
 ---
+
 <nav class="site-nav">
   <a href="#overview">Overview</a>
   <a href="#call-for-papers">Call for Papers</a>
@@ -9,12 +12,15 @@ layout: default
   <a href="#organizers">Organizers</a>
   <a href="#program-committee">Program Committee</a>
   <a href="#program">Program</a>
+  </nav>
   {: .centered }
+<nav class="site-nav">
   <a href="#journal-special-issue">Journal Special Issue</a>
   <a href="#contact-and-submission">Contact and Submission</a>
-  {: .centered }
 </nav>
-<!--{: .centered }-->
+{: .centered }
+
+---
 
 # 1st Workshop on Incentives and Contribution Evaluation (WICE 2027)
 {: .centered }
