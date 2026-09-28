@@ -20,8 +20,8 @@ layout: default
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
 {: .centered }
 
-<!--# WICE @ SaTML 2027
-<!--{: .centered }
+<!--# WICE @ SaTML 2027-->
+<!--{: .centered }-->
 
 <figure class="scale-figure">
   <img src="{{ '/assets/images/balance-scale-animation.svg' | relative_url }}" alt="Animated balance scale titled Fair Reward for Fair Contribution, tipping into balance between a pan of data contributions and a pan holding a reward token">
