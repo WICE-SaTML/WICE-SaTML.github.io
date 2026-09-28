@@ -7,7 +7,10 @@ layout: default
   <a href="#important-dates">Important Dates</a>
   <a href="#keynotes">Keynotes</a>
   <a href="#organizers">Organizers</a>
+  <a href="#program-committee">Program Committee</a>
+  <a href="#program">Program</a>
   <a href="#journal-special-issue">Journal Special Issue</a>
+  <a href="#contact-and-submission">Contact and Submission</a>
 </nav>
 {: .centered }
 
@@ -69,7 +72,7 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 ### Publication
 
-Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **In addition, authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.** 
+Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.** 
 
 ### Policies
 
@@ -126,6 +129,14 @@ Keynote speaker to be announced.
 
 ---
 
+# Program Committee 
+
+---
+
+# Program
+
+---
+
 ## Journal Special Issue
 
 WICE partners with **Frontiers in Computer Science** (Computer Security section) on a companion Research Topic, [*Incentives and Contribution Evaluation in Secure Collaborative Learning*](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning), edited by the workshop co-chairs: Balázs Pejó, Steve Drew, Qiang Tang, and Delio Jaramillo-Velez.
@@ -138,3 +149,8 @@ The Research Topic treats contribution evaluation as both a security mechanism a
 
 👉 [Read the full call and submit at the Research Topic page](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning)
 
+---
+
+# Contact and Submission
+
+---
