@@ -12,9 +12,6 @@ layout: default
   <a href="#organizers">Organizers</a>
   <a href="#program-committee">Program Committee</a>
   <a href="#program">Program</a>
-  </nav>
-  {: .centered }
-<nav class="site-nav">
   <a href="#journal-special-issue">Journal Special Issue</a>
   <a href="#contact-and-submission">Contact and Submission</a>
 </nav>
