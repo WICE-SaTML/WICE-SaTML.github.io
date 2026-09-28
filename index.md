@@ -1,9 +1,6 @@
 ---
-
 layout: default
-
 ---
-
 <nav class="site-nav">
   <a href="#overview">Overview</a>
   <a href="#call-for-papers">Call for Papers</a>
