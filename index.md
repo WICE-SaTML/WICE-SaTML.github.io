@@ -97,7 +97,7 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 ## Keynotes
 
-Keynote speaker to be announced.
+Keynote speakers to be announced.
 
 ---
 
@@ -129,11 +129,20 @@ Keynote speaker to be announced.
 
 ---
 
-# Program Committee 
-
+## Program Committee 
+<ul>
+  <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
+  <li>Gergely Acs — Budapest University of Technology and Economics, Hungary</li>  
+  <li>Zhuangdi Zhu — George Mason University, USA</li>
+  <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
+  <!--<li>Camilla Hollanti — Aalto University, Finland</li>-->
+  <li>Jianhong Wang — University of Bristol, UK</li>
+</ul>
 ---
 
-# Program
+## Program
+
+TBA
 
 ---
 
@@ -151,6 +160,10 @@ The Research Topic treats contribution evaluation as both a security mechanism a
 
 ---
 
-# Contact and Submission
+## Contact and Submission
+
+**Contact:** pejo@crysys.hu
+
+**Submission site:** TBA
 
 ---
