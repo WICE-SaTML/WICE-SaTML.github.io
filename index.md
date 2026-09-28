@@ -31,17 +31,19 @@ layout: default
   <img src="{{ '/assets/images/satml-banner.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
 </div>
 
+----
 
 ## Overview
 
 WICE 2027 aims to advance the study of incentives and contribution evaluation in collaborative machine learning. As federated learning moves beyond training a single shared model toward multi-agent systems, and as data valuation, incentive compatibility, and privacy-preserving computation become central to any large-scale collaboration, quantifying each participant's contribution — fairly, robustly, and without exposing private data — has never been more critical.
 
 This workshop explores contribution evaluation metrics and their axiomatic foundations, the robustness of contribution scores against manipulation and poisoning, incentive mechanisms and mechanism design for collaborative learning, and credit assignment in multi-agent and LLM-agent collaboration, addressing key challenges including compatibility with privacy-enhancing technologies, system and statistical heterogeneity, and verifiable reward distribution. By bringing together researchers and practitioners from the federated learning, security and privacy, data valuation, and game theory communities, WICE fosters discussion on the incentive foundations that determine whether collaborative learning is worth participating in for those involved — co-located with IEEE SaTML 2027 in Reykjavík, Iceland, on May 3, 2027.
+
 ---
 
 ## Call for Papers
 
-We invite short papers of up to **6 pages excluding references**, in the double-column IEEE conference format, submitted in a single track. Suitable submissions include novel preliminary results, systematization and position papers, and condensed versions of mature work.
+We invite short papers of up to **6 pages excluding references**, in the double-column IEEE conference format, submitted in a single track. Suitable submissions include novel preliminary results, systematization and position papers, and condensed versions of mature, unpublished work.
 
 ### Topics of interest include, but are not limited to:
 
