@@ -14,7 +14,6 @@ layout: default
 </nav>
 {: .centered }
 
----
 
 # 1st Workshop on Incentives and Contribution Evaluation (WICE 2027)
 {: .centered }
