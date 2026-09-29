@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<style>
+.site-nav .nav-dropdown-menu {
+  display: none !important;
+}
+.site-nav .nav-dropdown:hover .nav-dropdown-menu,
+.site-nav .nav-dropdown:focus-within .nav-dropdown-menu {
+  display: flex !important;
+}
+</style>
 <nav class="site-nav"> 
   <a href="#overview">Overview</a>
 
