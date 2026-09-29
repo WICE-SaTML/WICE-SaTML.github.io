@@ -10,7 +10,7 @@ layout: default
   <div class="nav-dropdown">
     <a href="#organizers" class="nav-dropdown-toggle">Organizers ▾</a>
     <div class="nav-dropdown-menu">
-      <a href="#organizer-pejo">Balázs Pejó</a>
+      <a href="#organizer-pejo">Balázs Pejó</a> 
       <a href="#organizer-drew">Steve Drew</a>
       <a href="#organizer-tang">Qiang Tang</a>
       <a href="#organizer-jaramillo">Delio Jaramillo-Velez</a>
