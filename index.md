@@ -146,7 +146,7 @@ TBA
 
 ### Keynotes
 
-Keynote speakers to be announced.
+TBA
 
 ### Accepted papers
 
