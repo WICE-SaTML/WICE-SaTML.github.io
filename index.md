@@ -10,8 +10,18 @@ layout: default
   <div class="nav-dropdown">
     <a href="#organizers" class="nav-dropdown-toggle">Organizers ▾</a>
     <div class="nav-dropdown-menu">
-      <a href="#program-committee">Program Committee</a>
-      <a href="#contact">Contact</a>
+      <a href="#organizer-pejo">Balázs Pejó</a>
+      <a href="#organizer-drew">Steve Drew</a>
+      <a href="#organizer-tang">Qiang Tang</a>
+      <a href="#organizer-jaramillo">Delio Jaramillo-Velez</a>
+    </div>
+  </div>
+
+  <div class="nav-dropdown">
+    <a href="#program-committee" class="nav-dropdown-toggle">Program Committee ▾</a>
+    <div class="nav-dropdown-menu">
+      <a href="#program-committee">Committee Members</a>
+      <a href="mailto:pejo@crysys.hu?subject=Interest%20in%20joining%20the%20WICE%20PC">Interested in Joining?</a>
     </div>
   </div>
 
