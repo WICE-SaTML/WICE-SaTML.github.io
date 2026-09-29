@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<nav class="site-nav">
+<nav class="site-nav"> 
   <a href="#overview">Overview</a>
 
   <div class="nav-dropdown">
