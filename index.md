@@ -3,41 +3,33 @@ layout: default
 ---
 <nav class="site-nav">
   <a href="#overview">Overview</a>
-  <a href="#call-for-papers">Call for Papers</a>
-  <a href="#important-dates">Important Dates</a>
-  <a href="#keynotes">Keynotes</a>
+
+  <div class="nav-dropdown">
+    <a href="#call-for-papers" class="nav-dropdown-toggle">Call for Papers ▾</a>
+    <div class="nav-dropdown-menu">
+      <a href="#submission-site">Submission</a>
+      <a href="#important-dates">Important Dates</a>
+    </div>
+  </div>
 
   <div class="nav-dropdown">
     <a href="#organizers" class="nav-dropdown-toggle">Organizers ▾</a>
     <div class="nav-dropdown-menu">
-      <a href="#organizer-pejo">Balázs Pejó</a>
-      <a href="#organizer-drew">Steve Drew</a>
-      <a href="#organizer-tang">Qiang Tang</a>
-      <a href="#organizer-jaramillo">Delio Jaramillo-Velez</a>
+      <a href="#program-committee">Program Committee</a>
+      <a href="#contact">Contact</a>
     </div>
   </div>
 
   <div class="nav-dropdown">
-    <a href="#program-committee" class="nav-dropdown-toggle">Program Committee ▾</a>
+    <a href="#program" class="nav-dropdown-toggle">Program ▾</a>
     <div class="nav-dropdown-menu">
-      <a href="#program-committee">Committee Members</a>
-      <a href="mailto:pejo@crysys.hu?subject=Interest%20in%20joining%20the%20WICE%20PC">Interested in Joining?</a>
+      <a href="#keynotes">Keynotes</a>
+      <a href="#accepted-papers">Accepted Papers</a>
     </div>
   </div>
 
-  <a href="#program">Program</a>
   <a href="#journal-special-issue">Journal Special Issue</a>
-
-  <div class="nav-dropdown">
-    <a href="#contact-and-submission" class="nav-dropdown-toggle">Contact and Submission ▾</a>
-    <div class="nav-dropdown-menu">
-      <a href="#call-for-papers">Submission Guidelines</a>
-      <a href="mailto:pejo@crysys.hu">Contact Us</a>
-    </div>
-  </div>
 </nav>
-{: .centered }
-
 
 # 1st Workshop on Incentives and Contribution Evaluation (WICE 2027)
 {: .centered }
@@ -47,9 +39,6 @@ layout: default
 
 *A workshop co-located with [SaTML](https://satml.org/) 2027.*
 {: .centered }
-
-<!--# WICE @ SaTML 2027-->
-<!--{: .centered }-->
 
 <figure class="scale-figure">
   <img src="{{ '/assets/images/balance-scale-animation.svg' | relative_url }}" alt="Animated balance scale titled Fair Reward for Fair Contribution, tipping into balance between a pan of data contributions and a pan holding a reward token">
@@ -97,7 +86,7 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 ### Publication
 
-Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.** 
+Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.**
 
 ### Submission site
 
@@ -106,8 +95,6 @@ TBA
 ### Policies
 
 Submissions must be original and not published or under review elsewhere; the workshop follows the IEEE Code of Conduct
-
-<!--Submissions must comply with the IEEE SaTML 2027 AI Guidelines, Open Science policy, and Proactive Prevention of Harm policy (see the main [conference website](https://satml.org/call-for-papers/#reviewing-process)); the workshop follows the IEEE Code of Conduct.-->
 
 ### Important Dates
 
@@ -120,9 +107,7 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 | Camera-ready (for proceedings) | March 31, 2027 |
 | **Workshop** | **May 3, 2027** |
 
-
 ---
-
 
 ## Organizers
 
@@ -149,23 +134,20 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
   </div>
 </div>
 
----
+### Program Committee
 
-## Contact
-
-pejo@crysys.hu
-
----
-
-## Program Committee 
 <ul>
   <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
-  <li>Gergely Ács — Budapest University of Technology and Economics, Hungary</li>  
+  <li>Gergely Ács — Budapest University of Technology and Economics, Hungary</li>
   <li>Zhuangdi Zhu — George Mason University, USA</li>
   <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
   <li>Camilla Hollanti — Aalto University, Finland</li>
   <li>Jianhong Wang — University of Bristol, UK</li>
 </ul>
+
+### Contact
+
+pejo@crysys.hu
 
 ---
 
@@ -189,14 +171,6 @@ WICE partners with **Frontiers in Computer Science** (Computer Security section)
 
 The Research Topic treats contribution evaluation as both a security mechanism and an attack surface in federated learning. It welcomes original research, systematization-of-knowledge, survey, and perspective articles on topics such as attacks on and defenses for contribution scoring, privacy-preserving and Byzantine-robust evaluation, secure and verifiable reward distribution, mechanism design, data valuation, and credit assignment in multi-agent and LLM-agent collaboration.
 
-**Authors and attendees of WICE are warmly invited to submit substantially extended versions**, and the Research Topic is also open to original submissions from outside the workshop. 
-
-<!--**Manuscript submission deadline:** August 31, 2027-->
+**Authors and attendees of WICE are warmly invited to submit substantially extended versions**, and the Research Topic is also open to original submissions from outside the workshop.
 
 👉 [Read the full call and submit at the Research Topic page](https://www.frontiersin.org/research-topics/85885/incentives-and-contribution-evaluation-in-secure-collaborative-learning)
-
----
-
-<!--## Contact and Submission-->
-
-
