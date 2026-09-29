@@ -2,12 +2,37 @@
 layout: default
 ---
 <style>
+.nav-dropdown {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
 .site-nav .nav-dropdown-menu {
   display: none !important;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 0.4rem 0;
+  min-width: 210px;
+  z-index: 20;
 }
+
+.nav-dropdown-menu a {
+  padding: 0.45rem 1rem !important;
+  white-space: nowrap;
+  text-align: left;
+}
+
 .site-nav .nav-dropdown:hover .nav-dropdown-menu,
 .site-nav .nav-dropdown:focus-within .nav-dropdown-menu {
   display: flex !important;
+  flex-direction: column !important;
 }
 </style>
 <nav class="site-nav"> 
