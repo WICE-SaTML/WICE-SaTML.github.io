@@ -36,20 +36,6 @@ layout: default
     </div>
   </div>
 </nav>
-
-
-<nav class="site-nav">
-  <a href="#overview">Overview</a>
-  <a href="#call-for-papers">Call for Papers</a>
-  <a href="#important-dates">Important Dates</a>
-  <a href="#keynotes">Keynotes</a>
-  <!--<a href="#accepted-papers">Accepted Papers</a>-->
-  <a href="#organizers">Organizers</a>
-  <!--<a href="#program-committee">Program Committee</a>-->
-  <a href="#program">Program</a>
-  <a href="#journal-special-issue">Journal Special Issue</a>
-  <!--<a href="#contact-and-submission">Contact and Submission</a>-->
-</nav>
 {: .centered }
 
 
