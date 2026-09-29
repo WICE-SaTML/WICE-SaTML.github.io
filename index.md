@@ -76,7 +76,9 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.** 
 
-**Submission site:** TBA
+### Submission site
+
+TBA
 
 ### Policies
 
@@ -95,11 +97,6 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 | Camera-ready (for proceedings) | March 31, 2027 |
 | **Workshop** | **May 3, 2027** |
 
-
----
-## Accepted Papers
-
-TBA
 
 ---
 
@@ -131,8 +128,6 @@ TBA
 
 **Contact:** pejo@crysys.hu
 
----
-
 ### Program Committee 
 <ul>
   <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
@@ -142,19 +137,16 @@ TBA
   <li>Camilla Hollanti — Aalto University, Finland</li>
   <li>Jianhong Wang — University of Bristol, UK</li>
 </ul>
+
 ---
 
 ## Program
 
 TBA
 
----
-
 ### Keynotes
 
 Keynote speakers to be announced.
-
----
 
 ### Accepted papers
 
