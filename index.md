@@ -153,9 +153,15 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
   </div>
 </div>
 
-**Contact:** pejo@crysys.hu
+---
 
-### Program Committee 
+## Contact
+
+pejo@crysys.hu
+
+---
+
+## Program Committee 
 <ul>
   <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
   <li>Gergely Ács — Budapest University of Technology and Economics, Hungary</li>  
