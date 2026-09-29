@@ -10,7 +10,7 @@ layout: default
   <div class="nav-dropdown">
     <a href="#organizers" class="nav-dropdown-toggle">Organizers ▾</a>
     <div class="nav-dropdown-menu">
-      <a href="#organizer-pejo">Balázs Pejó</a> 
+      <a href="#organizer-pejo">Balázs Pejó</a>
       <a href="#organizer-drew">Steve Drew</a>
       <a href="#organizer-tang">Qiang Tang</a>
       <a href="#organizer-jaramillo">Delio Jaramillo-Velez</a>
@@ -127,22 +127,22 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 ## Organizers
 
 <div class="organizers-grid">
-  <div class="organizer">
+  <div class="organizer" id="organizer-pejo">
     <img src="{{ '/assets/images/organizers/balazs-pejo.jpg' | relative_url }}" alt="Balázs Pejó" class="organizer-photo">
     <p class="organizer-name"><a href="https://www.crysys.hu/~pejo/">Balázs Pejó</a></p>
     <p class="organizer-affiliation">Budapest University of Technology and Economics, Hungary</p>
   </div>
-  <div class="organizer">
+  <div class="organizer" id="organizer-drew">
     <img src="{{ '/assets/images/organizers/steve-drew.jpg' | relative_url }}" alt="Steve Drew" class="organizer-photo">
     <p class="organizer-name"><a href="https://profiles.ucalgary.ca/steve-drew">Steve Drew</a></p>
     <p class="organizer-affiliation">University of Calgary, Canada</p>
   </div>
-  <div class="organizer">
+  <div class="organizer" id="organizer-tang">
     <img src="{{ '/assets/images/organizers/qiang-tang.jpg' | relative_url }}" alt="Qiang Tang" class="organizer-photo">
     <p class="organizer-name"><a href="https://researchportal.list.lu/scientific-community/detail/tang-qiang">Qiang Tang</a></p>
     <p class="organizer-affiliation">Luxembourg Institute of Science and Technology, Luxembourg</p>
   </div>
-  <div class="organizer">
+  <div class="organizer" id="organizer-jaramillo">
     <img src="{{ '/assets/images/organizers/delio-jaramillo-velez.jpg' | relative_url }}" alt="Delio Jaramillo-Velez" class="organizer-photo">
     <p class="organizer-name"><a href="https://sites.google.com/view/delio-jaramillo-velez/home">Delio Jaramillo-Velez</a></p>
     <p class="organizer-affiliation">University of La Laguna, Spain</p>
