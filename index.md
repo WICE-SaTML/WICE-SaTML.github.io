@@ -6,6 +6,33 @@ layout: default
   <a href="#call-for-papers">Call for Papers</a>
   <a href="#important-dates">Important Dates</a>
   <a href="#keynotes">Keynotes</a>
+
+  <div class="nav-dropdown">
+    <a href="#organizers" class="nav-dropdown-toggle">Organizers ▾</a>
+    <div class="nav-dropdown-menu">
+      <a href="#program-committee">Program Committee</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>
+
+  <a href="#program">Program</a>
+  <a href="#journal-special-issue">Journal Special Issue</a>
+
+  <div class="nav-dropdown">
+    <a href="#contact-and-submission" class="nav-dropdown-toggle">Contact and Submission ▾</a>
+    <div class="nav-dropdown-menu">
+      <a href="#call-for-papers">Submission Guidelines</a>
+      <a href="mailto:pejo@crysys.hu">Contact Us</a>
+    </div>
+  </div>
+</nav>
+
+
+<nav class="site-nav">
+  <a href="#overview">Overview</a>
+  <a href="#call-for-papers">Call for Papers</a>
+  <a href="#important-dates">Important Dates</a>
+  <a href="#keynotes">Keynotes</a>
   <!--<a href="#accepted-papers">Accepted Papers</a>-->
   <a href="#organizers">Organizers</a>
   <!--<a href="#program-committee">Program Committee</a>-->
