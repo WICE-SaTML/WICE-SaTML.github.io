@@ -5,12 +5,13 @@ layout: default
   <a href="#overview">Overview</a>
   <a href="#call-for-papers">Call for Papers</a>
   <a href="#important-dates">Important Dates</a>
-  <a href="#keynotes">Keynotes</a>
+  <!--<a href="#keynotes">Keynotes</a>-->
+  <!--<a href="#accepted-papers">Accepted Papers</a>-->
   <a href="#organizers">Organizers</a>
-  <a href="#program-committee">Program Committee</a>
+  <!--<a href="#program-committee">Program Committee</a>-->
   <a href="#program">Program</a>
   <a href="#journal-special-issue">Journal Special Issue</a>
-  <a href="#contact-and-submission">Contact and Submission</a>
+  <!--<a href="#contact-and-submission">Contact and Submission</a>-->
 </nav>
 {: .centered }
 
@@ -75,15 +76,15 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.** 
 
+**Submission site:** TBA
+
 ### Policies
 
 Submissions must be original and not published or under review elsewhere; the workshop follows the IEEE Code of Conduct
 
 <!--Submissions must comply with the IEEE SaTML 2027 AI Guidelines, Open Science policy, and Proactive Prevention of Harm policy (see the main [conference website](https://satml.org/call-for-papers/#reviewing-process)); the workshop follows the IEEE Code of Conduct.-->
 
----
-
-## Important Dates
+### Important Dates
 
 All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
@@ -94,11 +95,11 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 | Camera-ready (for proceedings) | March 31, 2027 |
 | **Workshop** | **May 3, 2027** |
 
+
 ---
+## Accepted Papers
 
-## Keynotes
-
-Keynote speakers to be announced.
+TBA
 
 ---
 
@@ -128,20 +129,34 @@ Keynote speakers to be announced.
   </div>
 </div>
 
+**Contact:** pejo@crysys.hu
+
 ---
 
-## Program Committee 
+### Program Committee 
 <ul>
   <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
-  <li>Gergely Acs — Budapest University of Technology and Economics, Hungary</li>  
+  <li>Gergely Ács — Budapest University of Technology and Economics, Hungary</li>  
   <li>Zhuangdi Zhu — George Mason University, USA</li>
   <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
-  <!--<li>Camilla Hollanti — Aalto University, Finland</li>-->
+  <li>Camilla Hollanti — Aalto University, Finland</li>
   <li>Jianhong Wang — University of Bristol, UK</li>
 </ul>
 ---
 
 ## Program
+
+TBA
+
+---
+
+### Keynotes
+
+Keynote speakers to be announced.
+
+---
+
+### Accepted papers
 
 TBA
 
@@ -161,10 +176,6 @@ The Research Topic treats contribution evaluation as both a security mechanism a
 
 ---
 
-## Contact and Submission
+<!--## Contact and Submission-->
 
-**Contact:** pejo@crysys.hu
 
-**Submission site:** TBA
-
----
