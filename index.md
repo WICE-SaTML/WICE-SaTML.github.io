@@ -122,9 +122,17 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 
 Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.**
 
-### Submission site
+## Submission Site
 
-TBA
+Papers must be submitted through OpenReview:
+[https://openreview.net/group?id=IEEE.org/SaTML/2027/Workshop/WICE](https://openreview.net/group?id=IEEE.org/SaTML/2027/Workshop/WICE)
+
+**OpenReview's moderation policy for newly created profiles:**
+
+- New profiles created **without** an institutional email will go through a moderation process.
+- New profiles created **with** an institutional email will be activated automatically.
+
+We encourage authors to create or update their OpenReview profiles well before the submission deadline (December 18).
 
 ### Policies
 
@@ -170,15 +178,12 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 ### Program Committee
 
-TBA
-
-<!--<ul>
-  <li>Gergely Biczók — Budapest University of Technology and Economics, Hungary</li>
-  <li>Gergely Ács — Budapest University of Technology and Economics, Hungary</li>
-  <li>Zhuangdi Zhu — George Mason University, USA</li>
+- Gergely Biczók — Budapest University of Technology and Economics, Hungary
+- Gergely Ács — Budapest University of Technology and Economics, Hungary
+  <!--<li>Zhuangdi Zhu — George Mason University, USA</li>
   <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
   <li>Camilla Hollanti — Aalto University, Finland</li>
-  <li>Jianhong Wang — University of Bristol, UK</li>
+  <!--<li>Jianhong Wang — University of Bristol, UK</li>
 </ul>-->
 
 ### Contact
