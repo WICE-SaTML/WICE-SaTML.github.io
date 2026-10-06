@@ -180,11 +180,11 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 ### Program Committee
 
 - Gergely Biczók — Budapest University of Technology and Economics, Hungary
-- Gergely Ács — Budapest University of Technology and Economics, Hungary
-<!--<li>Zhuangdi Zhu — George Mason University, USA</li>
+<!-- - Gergely Ács — Budapest University of Technology and Economics, Hungary
+<li>Zhuangdi Zhu — George Mason University, USA</li>
   <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
   <li>Camilla Hollanti — Aalto University, Finland</li>
-  <!--<li>Jianhong Wang — University of Bristol, UK</li>
+  <li>Jianhong Wang — University of Bristol, UK</li>
 </ul>-->
 
 ### Contact
