@@ -126,6 +126,7 @@ Accepted papers will be presented at the workshop and published in the **worksho
 ## Submission Site
 
 Papers must be submitted through OpenReview:
+
 [https://openreview.net/group?id=IEEE.org/SaTML/2027/Workshop/WICE](https://openreview.net/group?id=IEEE.org/SaTML/2027/Workshop/WICE)
 
 **OpenReview's moderation policy for newly created profiles:**
