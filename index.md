@@ -179,15 +179,14 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 ### Program Committee
 
-<div class="program-committee-grid">
+<div class="organizers-grid">
   
-  <div class="program-committee" id="program-committee-Biczók">
-    <img src="{{ '/assets/images/program-committee/biczok.jpg' | relative_url }}" alt="Gergely Biczók" class="program-committee-photo">
+  <div class="organizers" id="organizers-Biczók">
+    <img src="{{ '/assets/images/program-committee/biczok.jpg' | relative_url }}" alt="Gergely Biczók" class="organizers-photo">
     <p class="organizer-name"><a href="https://www.crysys.hu/member/biczok">Gergely Biczók</a></p>
     <p class="organizer-affiliation">Budapest University of Technology and Economics, Hungary</p>
   </div>
   
-  </div>
 </div>
 
 <!--Gergely Biczók — Budapest University of Technology and Economics, Hungary
