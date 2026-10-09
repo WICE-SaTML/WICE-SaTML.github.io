@@ -183,17 +183,27 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 TBA
 
 <!--<div class="organizers-grid">
+<div class="organizer" id="pc-Ács">
+    <img src="{{ '/assets/images/program-committee/acs.jpg' | relative_url }}" alt="Gergely Ács" class="organizer-photo">
+    <p class="organizer-name"><a href="https://www.crysys.hu/~acs/">Gergely Ács</a></p>
+    <p class="organizer-affiliation">Budapest University of Technology and Economics, Hungary</p>
+  </div>
   <div class="organizer" id="pc-biczok">
     <img src="{{ '/assets/images/program-committee/biczok.jpg' | relative_url }}" alt="Gergely Biczók" class="organizer-photo">
     <p class="organizer-name"><a href="https://www.crysys.hu/member/biczok">Gergely Biczók</a></p>
     <p class="organizer-affiliation">Budapest University of Technology and Economics, Hungary</p>
   </div>
+   <div class="organizer" id="pc-Guo">
+    <img src="{{ '/assets/images/program-committee/guo.jpg' | relative_url }}" alt="Yuejun Guo" class="organizer-photo">
+    <p class="organizer-name"><a href="https://researchportal.list.lu/scientific-community/detail/guo-yuejun">Yuejun Guo</a></p>
+    <p class="organizer-affiliation">Luxembourg Institute of Science and Technology, Luxembourg</p>
+  </div>
 </div>-->
 
-Gergely Biczók — Budapest University of Technology and Economics, Hungary
+<!--Gergely Biczók — Budapest University of Technology and Economics, Hungary
 Gergely Ács — Budapest University of Technology and Economics, Hungary
 Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg
-<!--<li>Zhuangdi Zhu — George Mason University, USA</li>
+<li>Zhuangdi Zhu — George Mason University, USA</li>
   <li>Yuejun Guo — Luxembourg Institute of Science and Technology, Luxembourg</li>
   <li>Camilla Hollanti — Aalto University, Finland</li>
   <li>Jianhong Wang — University of Bristol, UK</li>
