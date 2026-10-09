@@ -180,9 +180,7 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
 
 ### Program Committee
 
-TBA
-
-<!--<div class="organizers-grid">
+<div class="organizers-grid">
 <div class="organizer" id="pc-Ács">
     <img src="{{ '/assets/images/program-committee/acs.jpg' | relative_url }}" alt="Gergely Ács" class="organizer-photo">
     <p class="organizer-name"><a href="https://www.crysys.hu/~acs/">Gergely Ács</a></p>
@@ -198,7 +196,7 @@ TBA
     <p class="organizer-name"><a href="https://researchportal.list.lu/scientific-community/detail/guo-yuejun">Yuejun Guo</a></p>
     <p class="organizer-affiliation">Luxembourg Institute of Science and Technology, Luxembourg</p>
   </div>
-</div>-->
+</div>
 
 <!--Gergely Biczók — Budapest University of Technology and Economics, Hungary
 Gergely Ács — Budapest University of Technology and Economics, Hungary
