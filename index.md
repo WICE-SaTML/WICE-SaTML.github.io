@@ -196,6 +196,11 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
     <p class="organizer-name"><a href="https://researchportal.list.lu/scientific-community/detail/guo-yuejun">Yuejun Guo</a></p>
     <p class="organizer-affiliation">Luxembourg Institute of Science and Technology, Luxembourg</p>
   </div>
+  <div class="organizer" id="pc-wzmeng">
+    <img src="{{ '/assets/images/program-committee/wzmeng.jpg' | relative_url }}" alt="Weizhi Meng" class="organizer-photo">
+    <p class="organizer-name"><a href="https://wzmeng.github.io/homepage/">Weizhi Meng</a></p>
+    <p class="organizer-affiliation">Lancaster University, United Kingdom</p>
+  </div>
 </div>
 
 <!--Gergely Biczók — Budapest University of Technology and Economics, Hungary
