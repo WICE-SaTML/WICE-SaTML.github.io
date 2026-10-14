@@ -204,12 +204,12 @@ All deadlines are 11:59 PM AoE (Anywhere on Earth).
   <div class="organizer" id="pc-zhu">
     <img src="{{ '/assets/images/program-committee/zhu.jpg' | relative_url }}" alt="Zhuangdi Zhu" class="organizer-photo">
     <p class="organizer-name"><a href="https://zhuangdizhu.github.io">Zhuangdi Zhu</a></p>
-    <p class="organizer-affiliation">George Mason University, United States</p>
+    <p class="organizer-affiliation">George Mason University, USA</p>
   </div>
    <div class="organizer" id="pc-amir">
     <img src="{{ '/assets/images/program-committee/amir.jpg' | relative_url }}" alt="Amir Houmansadr" class="organizer-photo">
     <p class="organizer-name"><a href="https://people.cs.umass.edu/~amir/index.html">Amir Houmansadr</a></p>
-    <p class="organizer-affiliation">University of Massachusetts Amherst, United States</p>
+    <p class="organizer-affiliation">University of Massachusetts Amherst, USA</p>
   </div>
 </div>
 
@@ -236,7 +236,7 @@ TBA
 
 <div class="keynotes-list">
   <div class="keynote" id="keynote-houmansadr">
-    <img src="{{ '/assets/images/keynotes/amir-houmansadr.jpg' | relative_url }}" alt="Amir Houmansadr" class="organizer-photo">
+    <img src="{{ '/assets/images/keynotes/amir.jpg' | relative_url }}" alt="Amir Houmansadr" class="organizer-photo">
     <div>
       <p class="organizer-name"><a href="https://people.cs.umass.edu/~amir/">Amir Houmansadr</a></p>
       <p class="organizer-affiliation">University of Massachusetts Amherst, USA</p>
