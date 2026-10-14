@@ -234,7 +234,16 @@ TBA
 
 ### Keynotes
 
-TBA
+<div class="keynotes-list">
+  <div class="keynote" id="keynote-houmansadr">
+    <img src="{{ '/assets/images/keynotes/amir-houmansadr.jpg' | relative_url }}" alt="Amir Houmansadr" class="organizer-photo">
+    <div>
+      <p class="organizer-name"><a href="https://people.cs.umass.edu/~amir/">Amir Houmansadr</a></p>
+      <p class="organizer-affiliation">University of Massachusetts Amherst, USA</p>
+      <p class="keynote-bio">Amir Houmansadr is a Full Professor of Computer Science at the University of Massachusetts Amherst, where he has been on the faculty since 2014. He received his Ph.D. from the University of Illinois at Urbana-Champaign in 2012 and was then a postdoctoral scholar at the University of Texas at Austin. His research focuses on network and AI security and privacy, with an emphasis on privacy-enhancing technologies and trustworthy AI. His work ranges from designing and deploying censorship circumvention systems and analyzing messaging platforms and machine-learning APIs for privacy leakage, to deriving privacy bounds with game theory and information theory and evaluating the security and privacy of emerging AI technologies. He leads the <a href="https://people.cs.umass.edu/~amir/Research.html">Secure, Private Internet (SPIN) Research Group</a> and co-leads the <a href="https://aisec.cs.umass.edu/">UMass AI Security Lab</a>.</p>
+    </div>
+  </div>
+</div>
 
 ### Accepted papers
 
