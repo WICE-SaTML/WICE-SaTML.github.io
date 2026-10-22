@@ -1,4 +1,4 @@
----
+  ---
 layout: default
 
 ---
@@ -115,6 +115,8 @@ We invite short papers of up to **6 pages excluding references**, in the double-
 - Credit assignment, incentives, and contribution evaluation in multi-agent (including LLM-agent) collaboration
 - Deployment experiences, benchmarks, and case studies from real-world cross-silo and cross-device federations
 
+👉 [Read the full call for papers details](https://bmeedu-my.sharepoint.com/personal/pejo_balazs_vik_bme_hu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpejo%5Fbalazs%5Fvik%5Fbme%5Fhu%2FDocuments%2FUNIVERSITY%2F5%20Adjunct%20%2823%2D26%29%2FEvents%2FWICE%2FWICE2027%2DCFP%2Epdf&parent=%2Fpersonal%2Fpejo%5Fbalazs%5Fvik%5Fbme%5Fhu%2FDocuments%2FUNIVERSITY%2F5%20Adjunct%20%2823%2D26%29%2FEvents%2FWICE&share=cQoD0kwlPg%5FcRpK3mSj0iM%5FuEgUCastobZcpJTOUzTA2B8kbBA&CID=77a08d01%2D7ed6%2D4d13%2D9915%2D15494e05d263)
+
 ### Review process
 
 Reviewing is double-blind; each paper will receive at least two reviews.
@@ -122,6 +124,8 @@ Reviewing is double-blind; each paper will receive at least two reviews.
 ### Publication
 
 Accepted papers will be presented at the workshop and published in the **workshop proceedings alongside the IEEE SaTML 2027 conference proceedings**. In addition, **authors of all submissions will be invited to submit extended versions to an associated journal special issue, subject to the journal's independent peer review. More info at the bottom of this page.**
+
+**At least one author of each accepted paper must register and present the paper in person at the workshop**
 
 ## Submission Site
 
