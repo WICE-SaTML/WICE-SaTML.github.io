@@ -76,7 +76,7 @@ layout: default
 {: .centered }
 
 <figure class="scale-figure">
-  <img src="{{ '/assets/images/WICE-mono.svg' | relative_url }}"
+  <img src="{{ '/assets/images/WICE-logo.svg' | relative_url }}"
        alt="Animated balance scale titled Fair Reward for Fair Contribution, tipping into balance between a pan of data contributions and a pan holding a reward token"
        style="width: 20%; max-width: 200px; height: auto;">
 </figure>
