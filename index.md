@@ -82,7 +82,7 @@ layout: default
 </figure>
 
 <div class="satml-banner_2">
-  <img src="{{ '/assets/images/satml-banner.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
+  <img src="{{ '/assets/images/satml-banner_2.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
 </div>
 
 ----
