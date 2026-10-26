@@ -81,7 +81,7 @@ layout: default
        style="width: 20%; max-width: 200px; height: auto;">
 </figure>
 
-<div class="satml-banner_2">
+<div class="satml-banner">
   <img src="{{ '/assets/images/satml-banner_2.png' | relative_url }}" alt="5th IEEE Conference on Secure and Trustworthy Machine Learning — Reykjavik, Iceland, Early May 2027">
 </div>
 
